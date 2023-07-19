@@ -1,0 +1,31 @@
+{
+
+// version for updating, if there is an update, need to change more numbers than before
+
+"Version":"1.1",
+
+//link for server update
+
+"Url":"https://github.com/yeyefree123/yeyefreenet/raw/main/aye111.zip" ,
+
+"Changelog":"ကြိုက်တာရေးထည့်ပါꔹꕥꕹꕹꕹꘈꘈꙮꘈꘈꕹꕹꕹꕥꔹ ꔹꘈꘈꘈꔰꔷfree.ရဲငယ်ꔷꔰꘈꘈꘈꔹ ꔹꕥꕹꕹꕹꘈꘈꙮꘈꘈꕹꕹꕹꕥꔹ
+_______
+ꔹꕹꕕꙮfree.ꙮꕕꕹꔹ ꔹꕹꕕꙮရဲငယ်ꙮꕕꕹꔹ ꔹꕹꕕꙮꕕꕹꔹꙮꔹꕹꕕꙮ
+
+",
+
+// don't mess with the bottom
+
+"latestVersion": "1.0.0",
+
+"latestVersionCode": "1",
+
+"url": "",
+
+ "releaseNotes": [
+
+  "-Demo"
+
+    ]
+
+    }
